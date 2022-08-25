@@ -1,0 +1,65 @@
+
+    [
+        { "id": "1",
+        "name" : "Double Cot",
+        "category" : "Furniture",
+        "imageURL" : 
+        "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmVkfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+        ,
+         "price" : 100,
+        "oldPrice" :"$197"
+       },
+  
+    { "id": "2",
+        "name" : "Bed",
+        "category" : "Furniture",
+        "imageURL" :
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUv-eW4kf5bAqqYgLRGUf-aiHTC-UK5oSClg&usqp=CAU",
+        "price" : 89,
+        "oldPrice" : "$179"
+     },
+  
+  
+  
+        { "id": "3",
+        "name" : "Sofa",
+        "category" : "Furniture",
+        "imageURL" :
+        "https://img.freepik.com/free-vector/red-leather-sofa-realistic-illustration_1284-12133.jpg?w=2000",
+             "price" : 91,
+        "oldPrice" :"$191"
+       },
+  
+  
+        { "id": "4",
+        "name" : "Chair",
+        "category" : "Furniture",
+        "imageURL" :
+             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThvA7Z__Iildn5oRmzVXplEtIXXVAgkTpZKw&usqp=CAU", 
+        "price" : 60,
+        "oldPrice" : "$82"},
+  
+        { "id": "5",
+        "name" : "Arm Chair",
+        "category" : "Furniture",
+        "imageURL" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuyJ75ENwd_nursM9YfP8MMqYHM1qtC4HTcA&usqp=CAU",
+           "price" : 98,
+        "oldPrice" : "$98"},
+  
+        { "id": "6",
+        "name" : "Bed",
+        "category" : "Furniture",
+        "imageURL" :
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUv-eW4kf5bAqqYgLRGUf-aiHTC-UK5oSClg&usqp=CAU",  
+        "price" :79,
+        "oldPrice" : "$179"},
+       
+        { "id": "7",
+       "name" : "TeaPoy",
+       "category" : "Furniture",
+       "imageURL" :"https://images.woodenstreet.de/image/cache/data%2Fcoffee-table%2Fvesta-coffee-table-revised%2Frevised%2FHoney+Finish%2FCream+Blossom%2Ffront-574x396.jpg",
+             "price" : 60,
+       "oldPrice" : "$82"}
+         
+    
+      ]
